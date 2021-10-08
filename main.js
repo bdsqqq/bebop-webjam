@@ -19,7 +19,7 @@ animate(
   "#smokesvg",
   {
     scale: 1.01,
-    rotate: [0.1, -0.1],
+    rotate: [0.4, -0.4],
   },
   {
     duration: 2,
