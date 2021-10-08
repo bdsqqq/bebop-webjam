@@ -6,19 +6,19 @@ let width = wrapperElement.clientWidth;
 let height = wrapperElement.clientHeight;
 
 animate(
-  "#box",
+  "#swordfish",
   { x: -((width / 100) * 30), y: -height },
   {
-    duration: 4,
-    easing: "ease-in-out",
+    duration: 20,
+    easing: "linear",
     repeat: Infinity,
   }
 );
 
 animate(
-  "#smoke",
+  "#smokesvg",
   {
-    scale: 1.005,
+    scale: 1.01,
     rotate: [0.1, -0.1],
   },
   {
