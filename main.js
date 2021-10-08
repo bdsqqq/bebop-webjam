@@ -1,6 +1,16 @@
-import './style.css'
+import { animate } from "motion";
 
-document.querySelector('#app').innerHTML = `
-  <h1>Hello Vite!</h1>
-  <a href="https://vitejs.dev/guide/features.html" target="_blank">Documentation</a>
-`
+const wrapperElement = document.querySelector("#boxWrapper");
+
+let width = wrapperElement.clientWidth;
+let height = wrapperElement.clientHeight;
+
+animate(
+  "#box",
+  { x: -((width / 100) * 30), y: -height },
+  {
+    duration: 4,
+    easing: "ease-in-out",
+    repeat: Infinity,
+  }
+);

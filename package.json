@@ -12,5 +12,8 @@
     "postcss": "^8.2.8",
     "tailwindcss": "^2.0.3",
     "vite": "^2.1.0"
+  },
+  "dependencies": {
+    "motion": "^10.2.1"
   }
 }
