@@ -14,3 +14,17 @@ animate(
     repeat: Infinity,
   }
 );
+
+animate(
+  "#smoke",
+  {
+    scale: 1.005,
+    rotate: [0.1, -0.1],
+  },
+  {
+    duration: 2,
+    easing: "ease-in-out",
+    repeat: Infinity,
+    direction: "alternate",
+  }
+);
