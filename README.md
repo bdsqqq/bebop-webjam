@@ -1,6 +1,10 @@
 
 ![Logo](https://raw.githubusercontent.com/bdsqqq/bebop-webjam/main/public/favicon.ico?token=AJAYDY5ITVPTOBPDXEVCRUDBPB25W)
+# Bebop
 
+This website is my entry for the second installment of the WebJam.  
+
+The WebJam is a kind of hacakton where people try to create websites with a theme and some rules including a time limit.
     
 ## Demo
 
@@ -13,14 +17,7 @@ https://bebop-webjam.vercel.app/
 
 ![Smartphone screenshot](https://raw.githubusercontent.com/bdsqqq/bebop-webjam/main/docs/img/smartphone-screenshot.png?token=AJAYDY7HBX3KKCHB3CZJKD3BPB2KO)
 
-
-  
-# Bebop
-
-This website is my entry for the second installment of the WebJam.  
-
-The WebJam is a kind of hacakton where people try to create websites with a theme and some rules including a time limit.
-# Webjam Rules 
+## Webjam Rules 
 - Size: Any
 - Theme: Movies
 - Colors: In accordance with the tone of the movie
