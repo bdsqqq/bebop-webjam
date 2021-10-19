@@ -7,19 +7,33 @@ let height = wrapperElement.clientHeight;
 
 animate(
   "#swordfish",
-  { x: -((width / 100) * 30), y: -height },
+  { y: -height * 2.5 },
   {
-    duration: 20,
+    duration: 25,
     easing: "linear",
     repeat: Infinity,
   }
 );
 
 animate(
+  "#pulse",
+  {
+    y: [-1, 1],
+    scale: 1.02,
+  },
+  {
+    duration: 1,
+    easing: "ease-in-out",
+    repeat: Infinity,
+    direction: "alternate",
+  }
+);
+
+animate(
   "#smokesvg",
   {
-    scale: 1.01,
-    rotate: [0.4, -0.4],
+    scale: 1.02,
+    rotate: [0.4, 0],
   },
   {
     duration: 2,
