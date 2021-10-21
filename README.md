@@ -4,7 +4,7 @@
 
 This website is my entry for the second installment of the WebJam.  
 
-The WebJam is a kind of hacakton where people try to create websites with a theme and some rules including a time limit.
+The WebJam is a kind of hackaton where people try to create websites with a theme and some rules including a time limit.
     
 ## Demo
 
