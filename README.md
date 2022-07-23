@@ -8,7 +8,7 @@ The WebJam is a hackaton where people try to create websites with a theme and so
     
 ## Update: I WON!!! 🎉🎉
 On november 2nd 2021 I got a notification on my discord with the amazing news that this project had won the competition with the majority of votes.
-[Screenshot of the announcement](./docs/winner.jpg)
+[Screenshot of the announcement](/docs/img/winner.jpg)
 
 
 ## Demo
