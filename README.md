@@ -2,10 +2,15 @@
 ![Logo](https://raw.githubusercontent.com/bdsqqq/bebop-webjam/main/public/favicon.ico?token=AJAYDY5ITVPTOBPDXEVCRUDBPB25W)
 # Bebop
 
-This website is my entry for the second installment of the WebJam.  
+This website is my entry for(And winner of) the second installment of the WebJam.
 
-The WebJam is a kind of hackaton where people try to create websites with a theme and some rules including a time limit.
+The WebJam is a hackaton where people try to create websites with a theme and some rules including a time limit.
     
+## Update: I WON!!! 🎉🎉
+On november 2nd 2021 I got a notification on my discord with the amazing news that this project had won the competition with the majority of votes.
+[Screenshot of the announcement](./docs/winner.jpg)
+
+
 ## Demo
 
 https://bebop-webjam.vercel.app/
