@@ -9,12 +9,10 @@
 }
 
 @layer utilities {
-  @variants responsive {
-    .t-writing-mode-vlr {
-      writing-mode: vertical-lr;
-    }
-    .t-writing-mode-reset {
-      writing-mode: horizontal-tb;
-    }
+  .t-writing-mode-vlr {
+    writing-mode: vertical-lr;
+  }
+  .t-writing-mode-reset {
+    writing-mode: horizontal-tb;
   }
 }
